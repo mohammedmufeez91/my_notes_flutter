@@ -1,6 +1,6 @@
 # my_notes_flutter
 
-A new Flutter application.
+A new Flutter Application for creating and saving notes based on sqflite database for both android and ios.
 
 ## Getting Started
 
